@@ -1,11 +1,12 @@
 # Угадай число
 ### Запуск приложения
 1. Установите зависимости:
-flutter pub get
-equatable: ^2.0.3
+* flutter_bloc: ^8.0.0 
+* equatable: ^2.0.3
+* flutter pub get
 
 2. Запустите приложение:
-flutter run
+* flutter run
 
 ## Экраны в приложение
 ### Start Screen (light/dark):
